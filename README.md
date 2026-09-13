@@ -3,7 +3,7 @@ Bonjour, voici mon code en C++ d'une calculatrice version terminal il aura des a
 
 installation:
 
-git https://github.com/YojoxSn/calculatrice-cp.git
+clone git https://github.com/YojoxSn/calculatrice-cp.git
 
 cd calculatrice-cp
 
